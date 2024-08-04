@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.first{
+    border: 2px solid;
+    border-radius: 1em;
+}
+.order{
+    border: 1px solid;
+}
+.border{
+    height:80px;
+    width: 5px;
+}
+.box{
+    border:2px solid;
+    height:70px;
+    width:330px;
+}
+.three{
+    border: 2px solid;
+    height:70px;
+    width:330px;
+    
+    
+}
